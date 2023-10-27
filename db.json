@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "alan",
+      "email": "alan@gmail.com",
+      "pnum": "1223455678"
+    },
+    {
+      "id": 2,
+      "title": "alex",
+      "email": "alex@gmail.com",
+      "pnum": "56783455678"
+    },
+    {
+      "id": 3,
+      "title": "aswin",
+      "email": "aswin@gmail.com",
+      "pnum": "12567855678"
+    }
+  ]
+}
